@@ -1,0 +1,76 @@
+#parent{
+            height: 700px;
+            width: 700px;
+            border: 1px solid;
+            border-radius: 50%; 
+            margin: 0px auto; 
+            background-color: yellow;
+        }
+        #child{
+            height: 240px;
+            width: 500px;
+            /* border: 1px solid; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: 110px;
+            margin-left: 100px;
+        }
+        @keyframes circular {
+        from{
+                transform:rotate(0deg);
+            }
+            to{
+                transform:rotate(360deg);
+            }
+        }
+        .ch{
+            height: 220px;
+            width: 220px;
+            border: 1px solid;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            background-color: white;
+            animation-name: circular;
+            animation-iteration-count: infinite;
+            animation-duration: 2s;
+            /* animation-fill-mode:forwards; */
+        }
+        .e1{
+            height: 60px;
+            width: 60px;
+            /* border: 1px solid; */
+            border-radius: 50%;
+            background-color: black;  
+            /* translate: 0px 20px;      */
+        }
+        #child3{
+            height:180px;
+            width: 350px;
+            /* border: 1px solid; */
+            margin-left: 180px;
+            margin-top: 30px;
+            background-color: red;
+            border-radius:3px 3px 150px 150px ;
+        }
+        #child3:hover{
+            height:210px;
+            width: 350px;
+            /* border: 1px solid; */
+            margin-left: 180px;
+            margin-top: 30px;
+            border-radius:3px 3px 150px 150px ; 
+            background-color: palevioletred;
+        }
+        #child1:hover{
+            height: 300px;
+            width: 400px;
+            margin-left: 50px;
+        }
+        #child2:hover{
+            height: 300px;
+            width: 400px;
+            margin-right: 50px;
+        }
