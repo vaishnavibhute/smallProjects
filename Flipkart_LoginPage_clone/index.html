@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./loginPage.css">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <div id="child1">
+            <div id="con1"><h1>Login</h1></div>
+            <div id="con2">
+               <p id="p1">Get access to your Orders, Wishlist and Recommendations</p> 
+            </div>
+            <div id="con3">
+                <img src="./login_img_c4a81e.png" alt="">
+            </div>
+        </div>
+
+        <div id="child2">
+            <div id="con4">
+                <div id="input1" onclick="getOnClick()">
+                    <div id="inp">
+                    <input type="email" type="number" name="" id="inp1" size="40" placeholder="Enter Email/Mobile number">
+                    </div>
+                </div>
+                <div id="para">
+                    <p id="p2">By continuing, you agree to Flipkart's <a href="#" class="a1">Terms of Use</a> and <a href="#" class="a1">Privacy Policy.</a></p>
+                </div>
+                <a href="#" id="btn1">
+                    <div id="btn">Request OTP</div>
+                </a>
+            </div>
+
+            <div id="con5">
+                 <div id="acc">
+                        <a href="#" id="flip">New to Flipkart? Create an account</a>
+                    </div>
+             </div>
+        </div>
+    </main>
+
+    <script>
+        function getOnClick()
+        {
+            let i1=document.getElementById("inp1")
+            let i=document.getElementById("inp")
+            i1.style.marginBottom="10px"
+        }
+    </script>
+</body>
+</html>
