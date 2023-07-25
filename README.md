@@ -8,6 +8,6 @@ https://vaishnavibhute.github.io/smallProjects/Flipkart_LoginPage_clone
 https://vaishnavibhute.github.io/smallProjects/GoogleWebPage_clone
 https://vaishnavibhute.github.io/smallProjects/IndiaTourism
 https://vaishnavibhute.github.io/smallProjects/Netflix_homepage_clone
-https://vaishnavibhute.github.io/smallProjects/Random
+https://vaishnavibhute.github.io/smallProjects/Random%20Color%20Generator
 https://vaishnavibhute.github.io/smallProjects/SmileyTask
-https://vaishnavibhute.github.io/smallProjects/
+https://vaishnavibhute.github.io/smallProjects/Traffic%20Signal
