@@ -1,5 +1,5 @@
 
-        var signal=prompt("")
+        var signal=prompt("Enter word start/stop/caution")
         if(signal=="stop") {
             document.getElementById("bulb1").style.backgroundColor="red"
         }
