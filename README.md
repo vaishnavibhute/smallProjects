@@ -1,7 +1,7 @@
 <b>Mini Projects</b><br>
 In this section I made some small projects which helped me to expand my skills. for e.g. calculator, digital clock, templates and some webpages are cloned like Netflix sign in page, Flipkart login page, etc.
 <br> <br>
-1)https://vaishnavibhute.github.io/smallProjects/BulbTask
+1)https://vaishnavibhute.github.io/smallProjects/BulbTask<br>
 2)https://vaishnavibhute.github.io/smallProjects/Calculator
 3)https://vaishnavibhute.github.io/smallProjects/ContactUsForm
 4)https://vaishnavibhute.github.io/smallProjects/CricketTemplate
